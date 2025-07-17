@@ -1,0 +1,27 @@
+[submodule "STAAR"]
+	path = STAAR
+	url = git@github.com:hihg-um/STAAR.git
+	branch = noACAT
+[submodule "MetaSTAAR"]
+	path = MetaSTAAR
+	url = git@github.com:hihg-um/MetaSTAAR.git
+	branch = noACAT
+[submodule "MetaSTAARlite"]
+	path = MetaSTAARlite
+	url = git@github.com:li-lab-genetics/MetaSTAARlite.git
+[submodule "GMMAT"]
+	path = GMMAT
+	url = git@github.com:hanchenphd/GMMAT.git
+[submodule "STAARpipeline"]
+	path = STAARpipeline
+	url = git@github.com:xihaoli/STAARpipeline.git
+[submodule "SCANG"]
+	path = SCANG
+	url = git@github.com:zilinli1988/SCANG.git
+[submodule "MultiSTAAR"]
+	path = MultiSTAAR
+	url = git@github.com:hihg-um/MultiSTAAR.git
+	branch = noACAT
+[submodule "STAARpipelineSummary"]
+	path = STAARpipelineSummary
+	url = git@github.com:xihaoli/STAARpipelineSummary.git
