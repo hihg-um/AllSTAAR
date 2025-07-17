@@ -2,6 +2,11 @@
 
 AllSTAAR is a meta-package collection of STAAR-family R packages from [Li Lab](https://github.com/li-lab-genetics). This repository exists to provide a convenient way to install all of these packages at once using the [`pixi`](https://pixi.sh/latest/) package manager.
 
+To initialize the submodules while cloning:
+```bash
+git clone --recurse-submodules https://github.com/hihg-um/AllSTAAR.git
+```
+
 ## Installation
 
 1. Install pixi:
