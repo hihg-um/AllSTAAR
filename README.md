@@ -11,7 +11,7 @@ git clone --recurse-submodules https://github.com/hihg-um/AllSTAAR.git
 
 1. Install pixi:
 	 ```bash
-	 curl -sSL https://pixi.sh/install | bash
+	 curl -sSL https://pixi.sh/install.sh | bash
 	 # -- restart shell to fix $PATH --
 	 ```
 2. Install all STAAR packages:
